@@ -1,0 +1,12 @@
+h1{
+    color: lightblue
+}
+body {
+    background-color: black;
+    font-size: 18px;
+    font-style: oblique;
+    font-family: "Arial Rounded MT Bold", tahoma;
+}
+p{
+    color: white;
+}
